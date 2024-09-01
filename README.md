@@ -44,20 +44,26 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 - **Feature Importance:** We used the top three features in gaming requirements,
 for the following hardware specifications: [ processor , storage , RAM ]
 - **Prediction Analysis:** Provide insights into the predictions made by the model and any interesting patterns or observations.
-- 
-![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
-![insight2](https://github.com/user-attachments/assets/e28ef172-5726-445e-b079-9ef9cb45fe27)
 
-![insight2](https://github.com/user-attachments/assets/49620bfc-774b-4dad-9837-8c7ba987eb13)
+![insight1](https://github.com/user-attachments/assets/355b97b1-7b48-40a1-84f1-74de4eaf41d9)
 
 
-![insight3 2](https://github.com/user-attachments/assets/e0a92d52-6196-4acb-9c15-121f3b88667c)
+![insight2](https://github.com/user-attachments/assets/3e7e18f7-1de6-4c04-b505-fa941e9a5571)
+
+
+![insight3 1](https://github.com/user-attachments/assets/2c2816c9-1561-4e1a-a6e8-b0f6402abbe1)
+
+
+![insight3 2](https://github.com/user-attachments/assets/09635cfb-dbfc-4189-8e85-8cb85a3ab5cd)
+
+
+
 
 ## Team Members
 - Raghad Almalki 
 - Ahmed Alsubhi 
-- Fahad
-- Ali Alfaris
+- Fahad Alsaadi
+- Ali Alfares
 - Hatoon Aloqaily
 
 
