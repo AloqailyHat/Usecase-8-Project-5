@@ -55,16 +55,20 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 for the following hardware specifications: [ processor , storage , RAM ]
 - **Prediction Analysis:** 
 
-1. We notice that in the last 10 years, every year there are more games than the year before, it is likely that there is a shift to developing games and also witnessed during the past few days, the Tuwaiq Academy was opened, the first diploma in developing games and virtual worlds in partnership with "meta"!
-![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
+There is more than one question asked by people, do game companies fail to produce more games due to inflation?
 
-2. Over 60% of the games available on Steam require 4GB or 8GB of RAM. So, Which games require more than 8GB of RAM, specifically up to 16GB?
+![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
+1. We notice that in the last 10 years, every year there are more games than the year before, it is likely that there is a shift to developing games and also witnessed during the past few days, the Tuwaiq Academy was opened, the first diploma in developing games and virtual worlds in partnership with "meta"!
+
+  
+
+3. Over 60% of the games available on Steam require 4GB or 8GB of RAM. So, Which games require more than 8GB of RAM, specifically up to 16GB?
 ![insight2](https://github.com/user-attachments/assets/e28ef172-5726-445e-b079-9ef9cb45fe27)
 
-3. What are the games with the highest memory requirements?
+4. What are the games with the highest memory requirements?
 ![insight3 1](https://github.com/user-attachments/assets/dab611c6-2e7b-4bf6-aa76-fa25ad4142ab)
 
-4. What are the games with the highest storage requirements?
+5. What are the games with the highest storage requirements?
 ![insight3 2](https://github.com/user-attachments/assets/e0a92d52-6196-4acb-9c15-121f3b88667c)
 
 ## Team Members
