@@ -43,7 +43,7 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 ## Feature and Prediction Insights
 - **Feature Importance:** We used the top three features in gaming requirements,
 for the following hardware specifications: [ processor , storage , RAM ]
-- **Prediction Analysis:** Provide insights into the predictions made by the model and any interesting patterns or observations.
+- **Prediction Analysis:** 
 
 1. The pace of game creation accelerates each year in a remarkable trend, with the number of games surging in an ever-growing wave of innovation!
 ![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
