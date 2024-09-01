@@ -37,8 +37,8 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 - **Metrics Considered:** The performace metric used is the Silhouette Score, it measures how similar an object is to its own cluster from -1 to 1.
   
 - **Visuals:**
-![kmeans](dbscan.png)
-![kmeans](kmeans.png)
+<img src="dbscan.png" alt="DBSCAN" width="400"/>
+<img src="kmeans.png" alt="K-means" width="400"/>
 
 ## Best Model Determination
 - **Final Model:** We used the K-means algorithm because we the clustering to be based on the requirements and we don't want the algorithm to ignore other requirements that might be considered as outliers (ex: in DBSCAN).
