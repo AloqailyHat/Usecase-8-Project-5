@@ -47,23 +47,23 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 for the following hardware specifications: [ processor , storage , RAM ]
 - **Prediction Analysis:** 
 
-There is more than one question asked by people, do game companies fail to produce more games due to inflation?
+# There is more than one question asked by people, do game companies fail to produce more games due to inflation?
 
 ![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
-1. We notice that in the last 10 years, every year there are more games than the year before, it is likely that there is a shift to developing games and also witnessed during the past few days, the Tuwaiq Academy was opened, the first diploma in developing games and virtual worlds in partnership with "meta"!
+#### 1. We notice that in the last 10 years, every year there are more games than the year before, it is likely that there is a shift to developing games and also witnessed during the past few days, the Tuwaiq Academy was opened, the first diploma in developing games and virtual worlds in partnership with "meta"!
 
   
 
-Over 60% of the games available on Steam require 4GB or 8GB of RAM. So, Which games require more than 8GB of RAM, specifically up to 16GB?
+# Over 60% of the games available on Steam require 4GB or 8GB of RAM. So, Which games require more than 8GB of RAM, specifically up to 16GB?
 ![insight2](https://github.com/user-attachments/assets/e28ef172-5726-445e-b079-9ef9cb45fe27)
-   ###  2. As we saw in the previous image, most of the games range from 4 to 8 GB,  RAM which indicates that it is possible for you to play on a personal device.
+   ####  2. As we saw in the previous image, most of the games range from 4 to 8 GB,  RAM which indicates that it is possible for you to play on a personal device.
 
-3. What are the games with the highest memory requirements?
+# What are the games with the highest memory requirements?
 ![insight3 1](https://github.com/user-attachments/assets/dab611c6-2e7b-4bf6-aa76-fa25ad4142ab)
-
-4. What are the games with the highest storage requirements?
+####
+# What are the games with the highest storage requirements?
 ![insight3 2](https://github.com/user-attachments/assets/e0a92d52-6196-4acb-9c15-121f3b88667c)
-
+####
 ## Team Members
 - Raghad Almalki 
 - Ahmed Alsubhi 
