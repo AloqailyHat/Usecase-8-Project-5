@@ -45,7 +45,7 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 for the following hardware specifications: [ processor , storage , RAM ]
 - **Prediction Analysis:** 
 
-1. The pace of game creation accelerates each year in a remarkable trend, with the number of games surging in an ever-growing wave of innovation!
+1. We notice that in the last 10 years, every year there are more games than the year before, it is likely that there is a shift to developing games and also witnessed during the past few days, the Tuwaiq Academy was opened, the first diploma in developing games and virtual worlds in partnership with "meta"!
 ![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
 
 2. Over 60% of the games available on Steam require 4GB or 8GB of RAM. So, Which games require more than 8GB of RAM, specifically up to 16GB?
