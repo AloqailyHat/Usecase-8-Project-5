@@ -43,22 +43,27 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 ## Feature and Prediction Insights
 - **Feature Importance:** We used the top three features in gaming requirements,
 for the following hardware specifications: [ processor , storage , RAM ]
-- **Prediction Analysis:** Provide insights into the predictions made by the model and any interesting patterns or observations.
-- 
+- **Prediction Analysis:** 
+  
 ![insight1](https://github.com/user-attachments/assets/86945bad-4ff6-46f9-9cd4-87bc22da8218)
+The pace of game creation accelerates each year in a remarkable trend, with the number of games surging in an ever-growing wave of innovation!
+
+
 
 ![insight2](https://github.com/user-attachments/assets/e28ef172-5726-445e-b079-9ef9cb45fe27)
-
+Over 60% of the games available on Steam require 4GB or 8GB of RAM.
+So, Which games require more than 8GB of RAM, specifically up to 16GB?
 ![insight3 1](https://github.com/user-attachments/assets/dab611c6-2e7b-4bf6-aa76-fa25ad4142ab)
 
 
+What are the games with the highest storage requirements?
 ![insight3 2](https://github.com/user-attachments/assets/e0a92d52-6196-4acb-9c15-121f3b88667c)
 
 ## Team Members
 - Raghad Almalki 
 - Ahmed Alsubhi 
-- Fahad
-- Ali Alfaris
+- Fahad Alsaadi
+- Ali Alfares
 - Hatoon Aloqaily
 
 
