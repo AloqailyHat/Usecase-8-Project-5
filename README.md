@@ -38,8 +38,6 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
   
 - **Visuals:**
 
-![k-means](https://github.com/user-attachments/assets/529be12d-e8c2-4cda-a155-6600c941b57a)
-
 
 ## Best Model Determination
 - **Final Model:** We used the K-means algorithm because we the clustering to be based on the requirements and we don't want the algorithm to ignore other requirements that might be considered as outliers (ex: in DBSCAN).
