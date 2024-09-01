@@ -41,7 +41,8 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 - **Final Model:** We used the K-means algorithm because we the clustering to be based on the requirements and we don't want the algorithm to ignore other requirements that might be considered as outliers (ex: in DBSCAN).
 
 ## Feature and Prediction Insights
-- **Feature Importance:** We used the top three features in gaming requirements, for the following hardware specifications: [ processor , storage , RAM ]
+- **Feature Importance:** We used the top three features in gaming requirements,
+-  for the following hardware specifications: [ processor , storage , RAM ]
 - **Prediction Analysis:** Provide insights into the predictions made by the model and any interesting patterns or observations.
 
 ## Team Members
