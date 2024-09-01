@@ -42,7 +42,7 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 
 ## Feature and Prediction Insights
 - **Feature Importance:** We used the top three features in gaming requirements,
--  for the following hardware specifications: [ processor , storage , RAM ]
+for the following hardware specifications: [ processor , storage , RAM ]
 - **Prediction Analysis:** Provide insights into the predictions made by the model and any interesting patterns or observations.
 
 ## Team Members
