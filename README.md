@@ -27,7 +27,10 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 - **Models Selection:** We will use both because we want to see which one gives good results.
 
 ## Feature Engineering
-- **Techniques Used:** Memory and storage conversion from textual descriptions (like GB) into numerical values, this allows the model to compute and cluster.
+- **Techniques Used:**
+  1. Convert storage, memory, and processor to numerical values.
+  2. Standardizing the features.
+  3. Selecting features for the model (processor, memory, storage).
 
 ## Hyperparameter Optimization
 - **Approach:** For K-means; we used the elbow method to determine the optimal number of clusters. And for DBSCAN; 'eps=0.5' and 'min_samples=5' to control the density threshold for forming clusters.
