@@ -31,7 +31,7 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 
 ## Hyperparameter Optimization
 - **Approach:** For K-means; we used the elbow method to determine the optimal number of clusters. And for DBSCAN; 'eps=0.5' and 'min_samples=5' to control the density threshold for forming clusters.
-- **Results:** The process gives us unexpected great results, especially the elbow method!
+- **Results:** The process gives us a slight of good results, it needs some improvements in the algorithm.
 
 ## Performance Metric Visuals
 - **Metrics Considered:** The performace metric used is the Silhouette Score, it measures how similar an object is to its own cluster from -1 to 1.
