@@ -34,8 +34,12 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 - **Results:** The process gives us unexpected great results, especially the elbow method!
 
 ## Performance Metric Visuals
-- **Metrics Considered:** 
+- **Metrics Considered:**
+
+
 ![xx](https://github.com/user-attachments/assets/8f8a4b6a-7e05-4235-afef-74f21c18ee6b)
+
+
 
 - **Visuals:**
 ![k-means](https://github.com/user-attachments/assets/529be12d-e8c2-4cda-a155-6600c941b57a)
