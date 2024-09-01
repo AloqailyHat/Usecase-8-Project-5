@@ -70,7 +70,7 @@ for the following hardware specifications: [ processor , storage , RAM ]
 ## Team Members
 - Raghad Almalki 
 - Ahmed Alsubhi 
-- Fahad
+- Fahad Alsaadi
 - Ali Alfares
 - Hatoon Aloqaily
 
