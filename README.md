@@ -61,7 +61,7 @@ for the following hardware specifications: [ processor , storage , RAM ]
 
 # What are the games with the highest memory requirements?
 ![insight3 1](https://github.com/user-attachments/assets/dab611c6-2e7b-4bf6-aa76-fa25ad4142ab)
-####
+#### We also see that the games that require 16GB RAM are the same games that require high performance or high quality.
 # What are the games with the highest storage requirements?
 ![insight3 2](https://github.com/user-attachments/assets/e0a92d52-6196-4acb-9c15-121f3b88667c)
 ####
