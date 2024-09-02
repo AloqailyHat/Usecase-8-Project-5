@@ -70,7 +70,7 @@ for the following hardware specifications: [ processor , storage , RAM ]
 #### 4. We note that large-sized games are produced by large companies, and the size of the game lies in the many modes and high quality.
 ## Team Members
 - Raghad Almalki 
-- Ahmed Alsubhi 
+- Ahmad Alsubhi 
 - Fahad Alsaadi
 - Ali Alfares
 - Hatoon Aloqaily
